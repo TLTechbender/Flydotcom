@@ -364,7 +364,6 @@ a.second-button:hover{
 
 @media (max-width:767px) {
 
-
    .three-icons .fa-magnifying-glass, .three-icons .fa-cart-shopping{
         visibility:hidden;
         display: none;
@@ -374,7 +373,7 @@ a.second-button:hover{
         width: fit-content !important;
     }
     .first-section{
-        height: 700px;
+        height: 900px;
         max-height: 1000px;
     }
     .content{
@@ -387,12 +386,9 @@ a.second-button:hover{
         font-size: 1.4rem;
     }
 
-    .content h1{
-     font-size: 2.2rem;
-    }
 
     .two-buttons a{
-        font-size: 0.7rem;
+        
         width: fit-content;
         text-align: center;
         justify-content: center;
